@@ -40,17 +40,17 @@ disqus: yes
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+facebook: http://facebook.com/sangtaek.lim.9
+quora:
+twitter:
+github: http://github.com/SangTaekLim
+email: lst0415@daum.net
 
 #facebook like box
-fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-like-box: no
+fb-app-id:
+fb-page-url:
+fb-page-title:
 
 # Sass style
 sass:
