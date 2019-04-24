@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d69a18e-c51b-43d3-be17-e160834f67fc" name="Default Changelist" comment="" />
+    <list default="true" id="1d69a18e-c51b-43d3-be17-e160834f67fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-24-google-survey-mail.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-24-google-survey-mail.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-24-google-survey-mail.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="145">
-                <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <first_editor relative-caret-position="352">
+                <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,12 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556073106587</updated>
-      <workItem from="1556073107699" duration="4705000" />
+      <workItem from="1556073107699" duration="4848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4705000" />
+    <option name="totallyTimeSpent" value="4848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -232,8 +234,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-24-google-survey-mail.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="145">
-            <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
