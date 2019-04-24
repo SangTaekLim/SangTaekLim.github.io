@@ -7,7 +7,7 @@
 
 # Site settings
 title: SangTaek Lim
-email: your-email@domain.com
+email: lst0415@daum.net
 description: > # this means to ignore newlines until "baseurl:"
   Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
   
@@ -20,10 +20,10 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: webjeda
+built-by: SangTaek Lim
 
 copyright:
-   name: webjeda
+   name: SangTaek Lim
    link: 'http://blog.webjeda.com'
 
 # Build settings
